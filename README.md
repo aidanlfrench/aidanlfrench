@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Aidan. I am an aspiring data analyst from Michigan.
+
+🙇‍♂️ I'm currently learning SQL, Python, and Tableau.\
+🌟 I have a healthy addiction to Excel.\
+🕴️ I have 1 year of professional experience in Higher Education.
+
+
+
 <!--
 **aidanlfrench/aidanlfrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
